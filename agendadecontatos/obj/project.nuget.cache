@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GNGL8CtpFbarEtGN/leOPj9/told2SbcnrsSRC62+VtvvlZ8Gu80kb7pxB9LACGB/1hXEuqZaWKac0pRc0fOhg==",
+  "success": true,
+  "projectFilePath": "C:\\code\\agendadecontatos\\agendadecontatos\\agendadecontatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhosi\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\jhosi\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\jhosi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
